@@ -3,7 +3,9 @@
 A Java Program to generate combinations and permutations of a sequence of characters with repeated entries. The sample output is as follows
 
 java PermutationsAndCombinations 123456DDDD 3
+
 Combinations for number : 123456DDDD
+
 123
 124
 125
@@ -49,6 +51,7 @@ DDD
 Number of combinations : 42
 
 Permutations for number : 123456DDDD
+
 123
 124
 125
